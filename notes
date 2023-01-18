@@ -1,4 +1,4 @@
-1) Develop and manage multi-tenant Cassandra clusters on public cloud environments - Amazon Web Services (AWS) - EC2, Rackspace and on private cloud infrastructure - OpenStack cloud platform. \
+1) Develop and manage multi-tenant Cassandra clusters on public cloud environments - Amazon Web Services (AWS) - EC2, Rackspace and on private cloud infrastructure - OpenStack cloud platform.
 2) Develop data pipelines and data flows including splitting and joining data flow and embedding a pipeline useful for performing web service call in parallel. 
    Leverage the fork data either directly usinf S nap or by embedding a pipeline.
 3) Design, implement and configure Topics in new kafka cluster in all environment. Which can be consumed by various ELT/ETL loaders for data injestion and powering downstream applications.
