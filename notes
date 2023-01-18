@@ -1,0 +1,12 @@
+1) Develop and manage multi-tenant Cassandra clusters on public cloud environments - Amazon Web Services (AWS) - EC2, Rackspace and on private cloud infrastructure - OpenStack cloud platform. \
+2) Develop data pipelines and data flows including splitting and joining data flow and embedding a pipeline useful for performing web service call in parallel. 
+   Leverage the fork data either directly usinf S nap or by embedding a pipeline.
+3) Design, implement and configure Topics in new kafka cluster in all environment. Which can be consumed by various ELT/ETL loaders for data injestion and powering downstream applications.
+4) Develop a custom kafka consumer Java spring-boot program for our team to consume messages from Kafka cluster in real-time and injest the data to Snowflake and Databricks. 
+5) Develop end-to-end data pipelines using Java spring boot services and Python Flask API's frameworks.
+5) Design complex Python scripts and frameworks to interact with middleware/back end services.
+6) Develop and design data migration process using SQL, SQL AZURE DW, AZURE storage, Databricks, Snowflake and AZURE data factory for Azure subscribers and customers.
+7) Implement data pipeline using Apache Airflow, step functions on Cloud data platforms like AWS and GCP. 
+8) Transfer data from HDFS to MONGODB using pig, hive, and map reduce scripts and visualize streaming data in dashboard tableau.
+9) Provide technical solutions on big data frameworks such as SPARK, Elastic stack, Cloud technologies and for various use cases involving data pipelines.
+10) Develp PySpark programs and pipelines to distribute data processing on large streaming datasets, improving injestion and speed by 67%.
